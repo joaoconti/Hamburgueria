@@ -1,5 +1,5 @@
 # Hamburgueria
-Minha primeira página criada. Utilizando todo meu conhecimento de html e css que aprendi até hoje. É simples mais atrátivo.
+Minha primeira página criada. Utilizando todo meu conhecimento de html e css que aprendi até hoje. É simples mas atrátivo.
 
 <div>
   <p>PC</p>
